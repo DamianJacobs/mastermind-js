@@ -22,7 +22,7 @@ Met deze nieuwe informatie plaatst de codebreker vier volgende code-pionnen in d
 Functionele eisen beschrijven welke functionaliteit je eindproduct moet bevatten. Functionele eisen mogen nooit van technische aard zijn! Ieder persoon moet begrijpen welke functionaliteit de opdracht moet bevatten, ongeacht kennisniveau.
 
 Het spel moet aan de volgende functionele eisen voldoen:
-* De speler speelt de rol van de codebreker. 
+* De speler speelt de rol van de codebreker.
 * De computer (de code) speelt de rol van de codemaker.
 * Ieder spel bestaat uit 12 rijen.
 * Iedere rij bestaat uit 4 plaatsen.
@@ -30,12 +30,12 @@ Het spel moet aan de volgende functionele eisen voldoen:
 * Bij het resultaat van een rij worden de kleuren rood en wit gebruikt. Rood geeft aan hoeveel kleuren op de juiste positie staan. Met wit wordt aangegeven dat een kleur wel in de code voor komt, maar niet op de juiste positie staat.
 
 ### Technische eisen
-Technische eisen beschrijven aan welke vakgerichte voorwaarden de opdracht moet voldoen. Bijvoorbeeld dat de opdracht in correct validerend HTML en CSS moet zijn geschreven. 
+Technische eisen beschrijven aan welke vakgerichte voorwaarden de opdracht moet voldoen. Bijvoorbeeld dat de opdracht in correct validerend HTML en CSS moet zijn geschreven.
 
 Het spel moet aan de volgende technische eisen voldoen:
 * De presentatie van het spel is gemaakt door gebruik te maken van HTML en CSS.
 * De logica van het spel is geprogrammeert in Javascript.
-* Het spel genereert willekeurig (random) een kleurencode. 
+* Het spel genereert willekeurig (random) een kleurencode.
 
 ### Bonus
 * Het gehele spel is gemaakt door gebruik te maken van javascript objecten.
